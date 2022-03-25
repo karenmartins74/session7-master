@@ -82,7 +82,7 @@ section:nth-child(3) h2 {
 	font-size:200%;
 }
 main {
-	background-image:url(../images/bkg.jpg);
+	background-image:url(https://fit-front-end-course.s3.amazonaws.com/karen+martins+images/bkg.jpg);
 	background-position:center;
 	background-size:cover;
 	min-height:350px;
